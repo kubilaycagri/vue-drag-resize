@@ -11,6 +11,7 @@
                            :parentH="listHeight"
                            :axis="rect.axis"
                            :isActive="rect.active"
+                           :border="rect.border"
                            :minw="rect.minw"
                            :minh="rect.minh"
                            :isDraggable="rect.draggable"
